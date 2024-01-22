@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **neil_dsg@yahoo.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mV2oZ0TP9icKLh7B4kCo5SW1Ox90qurf/view?usp=sharing](https://drive.google.com/file/d/1mV2oZ0TP9icKLh7B4kCo5SW1Ox90qurf/view?usp=sharing)
+- 📄 Know about my experiences [http://tinyurl.com/4zw5cvcj](http://tinyurl.com/4zw5cvcj)
 
 - ⚡ Fun fact **I am a Chubby person and I love to eat**
 
