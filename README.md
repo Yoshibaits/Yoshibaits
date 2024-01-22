@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I am Neil Gonzales</h1>
 <h3 align="center">An aspiring Developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoshibaits&label=Profile%20views&color=0e75b6&style=flat" alt="yoshibaits" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoshibaits" alt="yoshibaits" /></a> </p>
-
 - 🌱 I’m currently learning **Reactjs and Backend development**
 
 - 📫 How to reach me **neil_dsg@yahoo.com**
